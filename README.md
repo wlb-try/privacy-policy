@@ -1,3 +1,3 @@
 # privacy-policy
 
-保存App 的隐私说明
+保存隐私说明和技术支持说明
